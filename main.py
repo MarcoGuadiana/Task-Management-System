@@ -3,7 +3,7 @@ from task_utils import add_task, mark_task_as_complete, view_pending_tasks, calc
 
 
 def main():
-    """The main function to run the task management system."""
+
     while True:
         print("\nTask Management System")
         print("1. Add Task")
